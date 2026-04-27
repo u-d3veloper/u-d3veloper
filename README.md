@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♂️ Hi ! I'm Titouan Auterioux, <br><br>Engineering student in IA/ML , IT <br>and Cognitive sciences <br>applied to human-system interactions 🖥️ 🧠<br><br>Based in Bordeaux, France <br><br>Currently, I work on a ML + Optimization algorithm  timetable organizer. <br>Lets talk about it ! <br><br>📨 Contact me at <br>titouan.auterioux@ensc.fr 
+🙋🏻‍♂️ Hi ! I'm Titouan Auterioux, <br><br>Engineering student in IA/ML , IT <br>and Cognitive sciences <br>applied to human-system interactions 🖥️ 🧠<br><br>Based in Bordeaux, France <br><br>Currently, I work on a computer vision pipeline to detect traffic objects <br>Lets talk about it ! <br><br>📨 Contact me at <br>titouan.auterioux@ensc.fr 
 
 
 ## 🌐 Socials:
